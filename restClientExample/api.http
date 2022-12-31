@@ -1,0 +1,6 @@
+POST http://localhost:5000/url/shorten
+Content-Type: application/json
+
+{
+    "longUrl":"https://www.hepsiburada.com/june-kisa-kol-ataturk-tshirt-p-HBCV0000332QTF?magaza=Hepsiburada"
+}
